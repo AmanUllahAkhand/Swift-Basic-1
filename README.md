@@ -1,0 +1,2 @@
+# Swift-Basic-1
+1. Variable,  2. Constant,  3. Array,  4. Dictionary,  5. Multiline String,  6. Unwrapping Optional,  7. If Else,  8. For Loop,  9. While Loop,  10. Repeat While Loop,  11. Enum,  12.Function,  13.DispatchQueue,  14. Closure,  15. Create Project,  16. UIView,  17. UILabel,  18. UIButton,  19. UISwitch,  20. UISlider,  21. UIImageView,  22. UIStepper,  23.UISegmentedControl,  24. WKWebView,  25. NSLayoutConstraint,  26. UITextField  27. UITextView  28. CornerRadius  29. Border 30. Shadow
